@@ -1,13 +1,12 @@
-package lesson1;
-public class Homework1 {
+public class lesson1_println {
     public static void main(String[] args) {
-        System.out.println("               РУБАИ");
-        System.out.println("Много лет размышлял я на жизни земной.");
-        System.out.println("Не понятного нет для меня под Луной.");
-        System.out.println("Мне известно, что мне ничего не известно!");
-        System.out.println("Вот последняя правда, открытая мной.");
-        System.out.println("Вот последняя правда, открытая мной.");
-        System.out.println("                                  О.Хайям");
+        System.out.println("               Lorem Ipsum");
+        System.out.println("Lorem ipsum dolor sit amet.");
+        System.out.println("Lorem ipsum dolor sit amet.");
+        System.out.println("Lorem ipsum dolor sit amet!");
+        System.out.println("Lorem ipsum dolor sit amet.");
+        System.out.println("Lorem ipsum dolor sit amet.");
+        System.out.println("                                  Marcus Tullius Cicero");
         System.out.println();
     }
     

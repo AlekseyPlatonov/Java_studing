@@ -1,5 +1,5 @@
-package Lesson13_switch;
-public class Month {
+
+public class lesson13_switch {
     
     static void n_month(int days){
         
